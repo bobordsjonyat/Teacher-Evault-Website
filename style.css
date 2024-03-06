@@ -70,8 +70,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 500px;
-    height: 500px;
+    width: 200px;
+    height: 200px;
     background: black;
     border-radius: 50%;
     border: 25px solid #fff;
@@ -80,7 +80,7 @@ section {
 
 .home-image img {
     position: relative;
-    max-width: 380px;
+    max-width: 250px;
 }
 
 .home-content {
