@@ -80,7 +80,7 @@ section {
 
 .home-image img {
     position: relative;
-    max-width: 250px;
+    width: 35vw;
 }
 
 .home-content {
@@ -90,7 +90,7 @@ section {
 }
 
 .home-content h1 {
-    font-size: 45px;
+    font-size: 35px;
     line-height: 1.2;
 }
 
