@@ -1,0 +1,11 @@
+.search {
+    background: none;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.bx-search {
+    font-size: 26;
+    color: white;
+}
